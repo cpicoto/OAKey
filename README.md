@@ -3,6 +3,7 @@ Checks the presence of a  Microsoft Windows Original Activation Key
 Samples of Execution:
 
 System with OAKey
+
     C:\>OAKey.exe
     
     Microsoft Windows Original Equipment Manufacturer Key Finder
@@ -12,7 +13,8 @@ System with OAKey
     
     Closing!
 
-System without OAKEY
+System without OAKey
+
     C:\>OAKey.exe
     
     Microsoft Windows Original Equipment Manufacturer Key Finder
